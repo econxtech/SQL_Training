@@ -1,6 +1,13 @@
 -- Lesson 2
 use EmadeDev
 
+/**
+Developer : Kolapo 
+Date : 11-11-2025
+
+**/
+
+
 -- How to remove a table from a database
 Drop Table if exists Noble
 
